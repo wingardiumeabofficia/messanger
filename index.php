@@ -22,7 +22,7 @@
     />
     <style>
       body {
-         background-image: url(https://a.top4top.io/p_2151lruie1.png);  /*صوره الخلفيه وشيل النجمه والسيلاش  */
+         background-image: url(https://g.top4top.io/p_2151b1rsi1.gif);  /*صوره الخلفيه وشيل النجمه والسيلاش  */
         /* background-color: rgba(255, 68, 0, 0.747); */ /*  لون الخلفيه وشيل النجمه والسيلاش   */
         background-repeat: no-repeat;
         background-attachment: fixed;
@@ -119,29 +119,30 @@
     <section>
       <div class="container">
         <div class="img">
-          <img src="https://a.top4top.io/p_2151lruie1.png" alt="" />
+          <img src="https://c.top4top.io/p_2151pxznq1.png
+                  " alt="" />
           <!-- هنا هتحط لينك الصورة المدوره -->
         </div>
         <div class="disc">
           <!-- هنا هتحط الديسكيبشن اللى فوق -->
           <h3>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi
-            aperiam nostrum fuga obcaecati voluptatibus vitae dolorum ratione
-            corporis delectus aut. <br />
+            Get 30 GB now for free
+            
+The service is provided free of charge by telecom companies. <br />
 
             time is : <span id="clock"></span> <br />
             <!-- هنا هتحط الديسكيبشن اللى تحت -->
-            Subscribe now to 4 offers to get it.
+            Choose your network system.
           </h3>
         </div>
         <!-- هنا الزراير ولينكاتها  -->
 
         <div class="btn">
-          <a href="goole.com"> test 1 </a>
-          <a href="goole.com"> test 1 </a>
-          <a href="goole.com"> test 1 </a>
-		  
-		
+          <a href="goole.com"> MTN </a>
+          <a href="goole.com"> Vodacom </a>
+          <a href="goole.com"> Telkom </a>
+		  <a href="goole.com"> Cell (C) </a>
+		 
          
         </div>
       </div>
