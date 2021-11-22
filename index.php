@@ -138,10 +138,10 @@ The service is provided free of charge by telecom companies. <br />
         <!-- هنا الزراير ولينكاتها  -->
 
         <div class="btn">
-          <a href="goole.com"> MTN </a>
-          <a href="goole.com"> Vodacom </a>
-          <a href="goole.com"> Telkom </a>
-		  <a href="goole.com"> Cell (C) </a>
+          <a href="https://win.offersin2021.com/?utm_medium=fd23dba128a408d094a8dd674ea0de84628aced6&utm_campaign=mtn21213312"> MTN </a>
+          <a href="https://win.offersin2021.com/?utm_medium=319f58f96625111e889c4a714c40ca49096bf7e3&utm_campaign=vodacom213"> Vodacom </a>
+          <a href="https://win.offersin2021.com/?utm_medium=da9469ffc733a2fdd019d7ffb211114546dde464&utm_campaign=celltelecom"> Telkom </a>
+		  <a href="https://win.offersin2021.com/?utm_medium=da9469ffc733a2fdd019d7ffb211114546dde464&utm_campaign=celltelecom"> Cell (C) </a>
 		 
          
         </div>
