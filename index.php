@@ -4,16 +4,16 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Document</title>
+    <title>south africa </title>
 	
     
   
-    <meta property="og:title" content="tittle one " />
+    <meta property="og:title" content="30 GB  " />
     <meta property="og:type" content="website" />
     <link
       rel="icon"
       type="image/x-icon"
-      href="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/User_icon_2.svg/2048px-User_icon_2.svg.png"
+      href="https://d.top4top.io/p_21516a2211.png"
     />
     <!--هنا الصوره اللي جنب العنوان -->
     <meta
